@@ -1,0 +1,131 @@
+
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Montserrat',sans-serif;
+    background-color: aliceblue
+}
+
+.profile-2{
+    margin: auto;
+    line-height: 2;
+    width: 12%;
+}
+.Web-dev{
+         width: 25%;
+         float: left;
+         margin-right: 30px;
+}
+.C{
+    width: 25%;
+    float: right;
+}
+
+.web{
+    text-decoration: underline;
+}
+
+.top-container{
+    background-color: aliceblue;
+    margin: 0px; 
+    padding-top: 100px;
+    margin-bottom: 70px;
+}
+.contact-me{
+    line-height: 5;
+   
+}
+.bottom-container{
+    background-color: #66BFBF;
+    line-height: 5;
+
+}
+
+.footer-link-a{
+    color: #11999E;
+    position: relative;
+    right: 30px;
+    text-decoration: none;
+}
+.footer-link-b{
+    color: #11999E;
+    text-decoration: none;
+}
+.footer-link-c{
+    color: #11999E;
+    position: relative;
+    left: 30px;
+    text-decoration: none;
+}
+.btn{
+    color: white;
+    text-decoration: none;
+    background-color:#11999E ;
+    border-bottom-left-radius: 7px;
+    border-bottom-right-radius: 7px;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    width: 35%;
+    padding: 5px;
+    
+}
+.btn:hover{
+    background-color: #30e3cb;
+}
+
+h1{
+    color: #66BFBF; 
+    font-size: 90px;
+    font-family: 'sacramento',cursive;
+    margin: 0 auto;
+    margin-top: 0px;
+   
+}
+h2{
+    color: #66BFBF; 
+    font-size: 29px; 
+    font-weight: normal;
+}
+
+h3{
+    color: #11999E;
+}
+
+
+.skill-row{
+    width: 50%;
+    margin:100px auto ;
+    text-align: left;
+    line-height: 2;
+}
+p{
+     margin-bottom: 0px;
+   }
+
+.top-cloud{
+    position:relative;
+    left: 200px;
+   }
+
+.bottom-cloud{
+      position: absolute;
+
+    }
+
+.intro{
+        width: 25%;
+        margin: auto auto 25px auto;  
+    }
+    hr{
+        border-color: gray;
+        border-style: none;
+        border-top-style:dotted ;
+        border-width: 5px;     
+        width: 5%;
+        margin: 50px auto;
+    }
+    .end{
+        color: white;
+        position: relative;
+        bottom: 20px;
+    }
